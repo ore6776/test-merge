@@ -2,3 +2,4 @@
 # test-merge
 GitHub change1
 
+GitHub change2
